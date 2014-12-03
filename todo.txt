@@ -1,0 +1,12 @@
+Loginpage:
+    Alla registrazione, aggiungere un captcha
+    
+Home:
+    Aggiungere funzionalità per modificarecontatti
+    Aggiungere visualizzazione per pagine e dare la possibilità di dare un limite
+    Aggiungere la modal page dell' about
+    
+    
+SQL:
+    Modificare db: attributi numeri come stringhe
+    Aggiornare le query in mdoo che trattino i numeri di telefono come stringhe

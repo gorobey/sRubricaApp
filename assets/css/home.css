@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+body 
+{
+padding-top: 45px;
+background-color: #2c8bec;
+
+}
+.main-background
+{
+    background-color: rgba(128,193,255,0.9);
+    box-shadow: 6px 8px 12px #777e87;
+    margin: 10px auto;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 8px 8px;
+}
+#contactsearch span
+{
+    text-decoration:underline;
+    background-color:yellow;    
+}
+
+.navbar-brand
+{
+    font-family: 'Lobster', sans-serif;
+    font-size: 30;
+}
+
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width:auto;
+  max-width: 500px;
+  margin: 20px auto;
+}
